@@ -6,6 +6,8 @@
 <!DOCTYPE html>
 <html>
 	<!-- <!DOCTYPE html> 위 <> 안 % 사이에 들어가는 내용은 반드시 첫 번째 줄부터 두어야 한다.-->
+	<!-- jsp 파일은 결국 calss파일(servlet)로 변환된다. 이클립스에서 자동 변환, 컴파일 후 사용 -->
+	<!-- servlet으로 작성하기 난해한 코드의 경우 자바 코드로 처리할 수 있도록 자동 변환 기능 탑재. 편의를 위한 문법 혼용. -->
 	<head>
 		<meta charset="UTF-8">
 		<title>Insert title here</title>
